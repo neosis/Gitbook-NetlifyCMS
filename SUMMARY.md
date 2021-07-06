@@ -10,3 +10,4 @@ This is summary text.
 * [This is introductory text.](lets-get-started.md)
 
   * [Subsection1](sub-section-1.md)
+  * **Subsection2**
